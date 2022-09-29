@@ -1,2 +1,2 @@
 # App-Help-Desk-Laravel
- App Help Desk feito em Laravel
+Sistema CEV Help Desk para Gerenciamento de Chamados - PHP Laravel, MySQL e Bootstrap
